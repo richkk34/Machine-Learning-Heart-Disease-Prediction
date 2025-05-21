@@ -44,7 +44,7 @@ The dataset used is a version of the **UCI Heart Disease dataset**, which includ
 ## Contact
 
 **Konadu Kwabena Richard**  
-Founder – Riama Web, Data & Research Solution  
+Founder – Riama Web, Data & Research Solutions  
 Email: richardkkonadu@gmail.com 
 Website: [www.riamaitsolutions.com](https://www.riama.com)
 
