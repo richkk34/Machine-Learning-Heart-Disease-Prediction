@@ -25,10 +25,9 @@ Heart disease is one of the leading causes of death worldwide. With the right da
 ## 📂 Dataset Information
 
 The dataset used is a version of the **UCI Heart Disease dataset**, which includes patient-level attributes like:
-- Age, sex, chest pain type
-- Cholesterol and blood pressure
-- Fasting blood sugar and ECG results
-- Heart rate and exercise-induced angina
+- Cholesterol Levels, BMI, Smoking Status
+- Mental Health, Physical Health
+- Sex, Age, Income
 
 > Note: The dataset was pre-loaded into the notebook. You can find the original version [here](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
