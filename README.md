@@ -10,11 +10,11 @@ Heart disease is one of the leading causes of death worldwide. With the right da
 
 - Cleaned and preprocessed medical data
 - Correlation analysis and feature selection
-- Trained three models: Logistic Regression, SVM, and Random Forest
+- Trained models include: Random Forest, Gradient Boosting, Logistic Regression, AdaBoost, Bagging, Extra Tree
 - Evaluated models using accuracy and classification reports
 - Visualized model performance for easy comparison
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3
 - Pandas & NumPy for data handling
@@ -22,7 +22,7 @@ Heart disease is one of the leading causes of death worldwide. With the right da
 - Matplotlib & Seaborn for visualization
 - Jupyter Notebook for project organization
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset used is a version of the **UCI Heart Disease dataset**, which includes patient-level attributes like:
 - Cholesterol Levels, BMI, Smoking Status
@@ -31,7 +31,7 @@ The dataset used is a version of the **UCI Heart Disease dataset**, which includ
 
 > Note: The dataset was pre-loaded into the notebook. You can find the original version [here](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 1. Clone the repository or download the `.ipynb` file.
 2. Open it in Jupyter Notebook or VS Code with Jupyter extension.
@@ -41,13 +41,13 @@ The dataset used is a version of the **UCI Heart Disease dataset**, which includ
    - Train and evaluate the models
 4. Review the final model performance summary at the end of the notebook.
 
-## 📬 Contact
+## Contact
 
 **Konadu Kwabena Richard**  
 Founder – Riama Web, Data & Research Solution  
-📧 Email: info@riama.com  
-🌐 Website: [www.riamaitsolutions.com](https://www.riama.com)
+Email: richardkkonadu@gmail.com 
+Website: [www.riamaitsolutions.com](https://www.riama.com)
 
 ---
 
-> Built to learn, test, and apply real-world data science — one model at a time.
+
